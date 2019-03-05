@@ -27,5 +27,5 @@ Here's a walkthrough of implemented user stories:
 
 Here's a walkthrough of implemented bonus user stories:
 
-<img src='http://g.recordit.co/HLJF5fmPNQ.gif' title='Video Walkthrough - Bonus' width='' alt='Video Walkthrough - Bonus' />
+<img src='http://g.recordit.co/n14KsXtnaB.gif' title='Video Walkthrough - Bonus' width='' alt='Video Walkthrough - Bonus' />
 
